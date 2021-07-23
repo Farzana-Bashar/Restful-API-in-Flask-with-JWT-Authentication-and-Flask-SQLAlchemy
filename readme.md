@@ -19,7 +19,7 @@ All the dependencies will go under requirements.txt file
     $ db.create_all()
     $ exit()
 
-in (env)
+#### in (env)
     $ sqlite3 todo.db
     $ .tables
     $ .exit
